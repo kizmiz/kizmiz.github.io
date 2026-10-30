@@ -267,6 +267,7 @@ address { font-style: normal; }
   text-shadow: 3px 2px 0 rgba(255, 79, 163, 0.85);
 }
 .app p { margin: 0 0 12px; }
+.app + .app { margin-top: 18px; }
 .app .facts { margin: 14px 0 16px; }
 .app .facts li { background: #fff; }
 .badge {
